@@ -1,0 +1,20 @@
+#root{background:darkcyan; color:white; width: auto; height: 1900px; align-content: center;
+ padding: 20px; font-size: 20px;  border-radius: 10px; margin-top: 15px; 
+   margin-left:10px;margin-right:10px; background-image: url("../src/assets/images (14).jpeg" );
+   background-attachment: fixed;background-size: cover;background-clip: inherit;background-position:center; }
+
+  .header {  word-spacing: 200px; padding: 0px;border: none;float: right;}
+  .header li {display:inline-block; margin-right: 70px;font-style: italic; font-size: 24px; color:black};
+  .image img {height: 100px; width: 60%;border-radius: 30px;}
+
+a{
+  cursor: pointer;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style:none;
+
+}
+.active{color:red;}
+.projects{ display: inline-block; font-size: 20px; width: 400px; padding: 10px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+.App img { height:30%}
+h2{text-align: center;}
